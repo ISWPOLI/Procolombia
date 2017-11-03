@@ -1,4 +1,5 @@
 
+
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 
 
@@ -158,4 +159,15 @@ textarea {
 
 optgroup {
   font-weight: bold;
+}
+
+ 
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+td,
+th {
+  padding: 0;
 }
