@@ -1,7 +1,7 @@
 
 ## Pagos
 
-ECOCOLOMBIA Pagos: Busca implementar un mejor desarrollo y reorganizar la parte de pagos en Procolombia inicialmente.
+SEOCOLOMBIA Pagos: Busca implementar un mejor desarrollo y reorganizar la parte de pagos en Procolombia inicialmente.
 
 ### Publico objetivo
 
