@@ -1,7 +1,7 @@
 
 ## Precontratación
 
-ECOCOLOMBIA Precontratación: Su objetivo es permitir al usuario de PROCOLOMBIA (inicialmente) realizar una mejor selección del personal que va a trabajar en dicha empresa.
+SEOCOLOMBIA Precontratación: Su objetivo es permitir al usuario de PROCOLOMBIA (inicialmente) realizar una mejor selección del personal que va a trabajar en dicha empresa.
 
 La aplicación web tendra un diseño adaptativo lo cual permitira poder ser visto desde los diferentes navegadores (smartphone, tabletas, Laptops y equipos de escritorio).
 
